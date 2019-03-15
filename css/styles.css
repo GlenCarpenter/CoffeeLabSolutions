@@ -341,6 +341,11 @@ footer > p {
     top: 0px;
     padding: 0;
   }
+  .about-text > p {
+    width: 65%;
+    margin: 0 auto;
+    padding: 0;
+  }
   .about-container {
     width: 85%;
     height: 350px;
